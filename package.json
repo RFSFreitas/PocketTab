@@ -1,0 +1,29 @@
+{
+  "name": "pockettab",
+  "version": "1.0.0",
+  "description": "A Free tool to create forms and share with users to tabulate",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",	
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RFSFreitas/PocketTab.git"
+  },
+  "keywords": [
+    "Tabulator",
+    "Tabulador",
+    "Forms",
+    "Electron"
+  ],
+  "author": "RFSFreitas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RFSFreitas/PocketTab/issues"
+  },
+  "homepage": "https://github.com/RFSFreitas/PocketTab#readme",
+  "dependencies": {
+    "electron": "^13.1.1"
+  }
+}
